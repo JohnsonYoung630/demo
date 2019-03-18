@@ -46,6 +46,5 @@ public class DemoApplicationTests {
 	private boolean isContains(Integer number, Integer containsNum) {
 		return number.toString().indexOf(containsNum.toString()) > -1;
 	}
-}
 
 }
